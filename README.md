@@ -23,13 +23,18 @@ My goal is to build real cybersecurity skill through consistent learning, practi
 
 ## Services
 
-I offer authorized cybersecurity services for websites, portfolios, small businesses, and early-stage digital products.
+I offer authorized cybersecurity services for websites, startups, creators, developers, and small businesses.
 
-- Website Security Review
-- Web App Security Audit — Starter
-- OSINT Footprint Review
-- Security Hardening Consultation
-- Developer Security Setup
+Services page: https://alekhverma.vercel.app/services
+
+Available services:
+- Startup MVP Web App Security Review
+- Firebase / Supabase / Cloud Rules Security Audit
+- Website Malware Cleanup + Security Hardening
+- Business Email & Domain Security Setup
+- GitHub / Deployment Secret Leak Audit
+- OSINT Footprint & Impersonation Risk Report
+- Monthly Security Care Plan
 
 Services page: https://alekhverma.vercel.app/services
 
