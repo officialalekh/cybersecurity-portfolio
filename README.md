@@ -1,5 +1,10 @@
 # Alekh Verma — Cybersecurity Portfolio
 
+## Public Articles
+
+* [Alekh Verma Cybersecurity Learning Roadmap](https://dev.to/gloom_savvy_78db2c81a26a8/alekh-verma-cybersecurity-learning-roadmap-2log)
+
+
 I am **Alekh Verma**, an ethical hacking and cybersecurity learner focused on web security, OSINT discipline, Linux workflow, secure systems, and responsible security research.
 
 My goal is to build real cybersecurity skill through consistent learning, practical research, and legal, authorized security practice.
