@@ -21,6 +21,18 @@ My goal is to build real cybersecurity skill through consistent learning, practi
 * Blog: https://alekhverma.vercel.app/blog
 * Contact: https://alekhverma.vercel.app/contact
 
+## Services
+
+I offer authorized cybersecurity services for websites, portfolios, small businesses, and early-stage digital products.
+
+- Website Security Review
+- Web App Security Audit — Starter
+- OSINT Footprint Review
+- Security Hardening Consultation
+- Developer Security Setup
+
+Services page: https://alekhverma.vercel.app/services
+
 ## Focus Areas
 
 * Ethical Hacking
